@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 30px;
+}
+
+.resume {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #6e6a6a ;
+    color: rgb(100, 35, 160);
+    padding-bottom: 15px;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: rgb(148, 148, 151);
+}
+
+h2 {
+    border-bottom: 1px soild #ccc;
+    padding-bottom: 5px;
+    color: rgb(5, 5, 5);
+}
+
+section {
+    margin-top: 20px;
+    color: rgb(78, 41, 41);
+}
+
+li {
+    margin: 8px 0;
+    color: rgb(51, 84, 146);
+}
